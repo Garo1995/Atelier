@@ -1050,7 +1050,14 @@ footer .href-telegram {
     .header-main__controls-item {
         gap: 10px;
     }
+    footer .footer-block__contacts {
+        align-items: flex-end;
+        gap: 15px;
+    }
+    footer .footer-block__contacts-item {
 
+        margin-bottom: 0;
+    }
 }
 @media (max-width: 767px){
     .blog-card-box {
